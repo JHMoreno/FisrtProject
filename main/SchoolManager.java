@@ -19,5 +19,6 @@ public class SchoolManager {
         // TODO code application logic here
         School school = new School("Buena Tierra");
         System.out.println(school.toString());
+        System.out.println("Done");
     }
 }
